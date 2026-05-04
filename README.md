@@ -10,4 +10,7 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
 - Get placed in top tech company
 
 ## Progress
-- Day 1: Computer Basics Started
+- Day 1: Computer Basics
+- Day 2: CPU, RAM, Storage
+- Day 3: Hardware & Software
+- Day 4: Operating System
