@@ -1,4 +1,4 @@
-# Day 1 – Computer Basics
+# Day 1 – Computer Basics 
 
 ## What is a Computer?
 
