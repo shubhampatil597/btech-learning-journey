@@ -18,3 +18,4 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
 - Day 4: Operating System, file system, windows 
          vs linux.
 - Day 5: File System, multitasking & Productivity
+- Day 7: Linux File System & Permissions
