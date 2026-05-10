@@ -22,3 +22,5 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
 - Day 8: Linux Users, Groups, Ownership &   
          Advanced Commands
 - Day 9: Linux Processes & System Monitoring
+- Day 10: Linux Networking Basics & Internet
+          Fundamentals
