@@ -24,3 +24,4 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
 - Day 9: Linux Processes & System Monitoring
 - Day 10: Linux Networking Basics & Internet
           Fundamentals
+- Day 11: Binary Basics & Data Representation
