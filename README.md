@@ -28,3 +28,4 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
 
 - Day 12: Linux Package Management & Software
           Installation
+- Day 13: Linux Text Editors (nano & vim Basics)
