@@ -19,6 +19,9 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
          vs linux.
 - Day 5: File System, multitasking & Productivity
 - Day 7: Linux File System & Permissions
+
+- Day 14: Linux Environment Variables, PATH &
+          Shell Variables
 - Day 8: Linux Users, Groups, Ownership &   
          Advanced Commands
 - Day 9: Linux Processes & System Monitoring
