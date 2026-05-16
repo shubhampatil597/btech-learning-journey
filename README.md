@@ -35,3 +35,5 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
 - Day 14: Linux Environment Variables, PATH &
           Shell Variables
 - Day 15: Linux Compression & Archiving
+- Day 16: Advanced Linux Networking Tools & Local
+          System Networking
