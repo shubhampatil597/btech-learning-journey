@@ -38,3 +38,4 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
 - Day 16: Advanced Linux Networking Tools & Local
           System Networking
 - Day 17: Linux Shell Scripting Basics
+- Day 18: Advanced Shell Scripting
