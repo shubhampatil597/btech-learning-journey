@@ -43,3 +43,5 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
 - Day 19: Linux Users, Groups & sudo
 - Day 20: Linux Services, Daemons & systemctl
 - Day 21: Linux Storage & File Systems
+- Day 22: Linux Logs, Monitoring &
+          Troubleshooting
