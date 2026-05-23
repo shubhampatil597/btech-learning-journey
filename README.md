@@ -45,3 +45,4 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
 - Day 21: Linux Storage & File Systems
 - Day 22: Linux Logs, Monitoring &
           Troubleshooting
+- Day 23: SSH & Remote Access
