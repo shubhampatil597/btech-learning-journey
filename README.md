@@ -46,3 +46,4 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
 - Day 22: Linux Logs, Monitoring &
           Troubleshooting
 - Day 23: SSH & Remote Access
+- Day 24: Linux Boot Process & Kernel
