@@ -50,3 +50,4 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
 - Day 25: Linux Security & Firewall Basics
 - Day 26: Linux Package Ecosystem & Software
           Management
+- Day 27: Advanced Linux Networking Internals
