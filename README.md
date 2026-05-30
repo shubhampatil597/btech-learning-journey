@@ -54,4 +54,5 @@ I am a B.Tech CSE student learning computer science, cloud, and development step
 - Day 28: Linux System Integration & Computer
           Basics Wrap-up
 - Day 29: Linux Command Ecosystem Mastery
+- Day 30: Complete May Revision
 
